@@ -1,4 +1,4 @@
-# FundsWeb ERP
+# OrderFlow ERP
 
 A full-stack ERP application for managing the complete business workflow from customer enquiry to quotation, sales order, inventory reservation, and dispatch.
 
